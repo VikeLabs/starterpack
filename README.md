@@ -13,19 +13,45 @@ Welcome to VikeLabs! This repository is here to help you get you (or your team) 
 
 ## Joining a Project
 
-**TBD**
+If you are interested in a project, reach out to the project lead and ask to join the project. If you are not sure who to contact, reach out to the admin team on Discord and we can help you get in touch with the right person.
 
 ## Starting a project
 
-**TBD**
+Starting a project is a difficult but rewarding task. You can approach this in a few different ways:
+
+- Start by finding a group of people who are interested in working on a project together.
+- Start by finding a problem that interests you and then find a group of people who are interested in working on it with you.
+
+**Use the VikeLabs Discord** to help socialize and find people who are interested in working on a project with you.
+
+The following channels are a good place to start:
+
+- `#general` - Part of the `social-lounge` category. This is a good place to start a conversation about a project you are interested in and have discussions.
+- `#looking-for-team` - Part of the `team formation` category. This is a good place to find people who are looking for a team to join. Here you can write a bit about yourself and what you are interested in working on etc.
+- `#looking-for-members` - Part of the `team formation` category. This is a good place to find people who are looking for a project to join. Here you can write a bit about the project you are working on and what you are looking for in a team member etc.
+
+You're not limited to starting a project or finding people through these channels. Maybe you have a group of existing friends who would be interested or a study group that is keen to dive into a project.
+
+> 🚨 **If have done the above and aren't getting traction ask for help in our Discord!** 🚨
 
 ## Forming a Team
 
-**TBD**
+Once you have formed a team, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf6DNB52nPyVZ-KJfQxwnL1PLHm-wI5EQRSe5ScjIrSdT3TkA/viewform) to let us know who is on your team. This will help us keep track of who is on what team and allow us to assist you with any resources you may need.
 
 ## Brainstorming
 
-**TODO**: Fill out this section. Depends on how team formation works.
+Brainstorming is an important part of just about anything. It's a chance for ideas to be thrown around and for people to get excited about a project. It's also a chance to get a feel for what people are interested in working on and what they are good at.
+
+We offer several tips for brainstorming:
+
+- Having some high level prompts can help get the ball rolling. Here are some examples:
+  - What are some problems you have encountered in your life, work, or school?
+- Try to keep the brainstorming session focused on the problem and not the solution.
+  - This will help you avoid getting stuck on a specific solution and will help you keep the scope of the project in check. Don't jump ahead to the solution too quickly.
+- Brainstorm individually and then come together to share your ideas.
+  - This will help you avoid groupthink and will help you get a feel for what people are interested in working on.
+- **Do not** dismiss an idea because at this stage.
+  - You can always scale back or scale up an idea. It's better to have a lot of ideas and then scale them back than to have no ideas at all. It also allows bouncing ideas off of each other.
 
 ## Planning
 
@@ -96,7 +122,7 @@ Learn the basics of Git and GitHub by following the [GitHub Learning Lab](https:
 
 ## Building
 
-**Are you awake!?** Congradulations on making it this far! You are now ready to start building your project. This section will cover some of the basics of building a web application. If you are already familiar with these technologies, feel free to skip this section. If you're not building a web application, feel free to skip this section.
+**Are you awake!?** Congratulations on making it this far! You are now ready to start building your project. This section will cover some of the basics of building a web application. If you are already familiar with these technologies, feel free to skip this section. If you're not building a web application, feel free to skip this section.
 
 **If you're going to use another language, framework, or library ask in the Discord server for advice and consultation first with peers and admins.**
 
@@ -129,34 +155,24 @@ Choosing a technology stack **should be rooted in the project** you're building 
 
 ## Example: Web Application with Next.js and sqlite3
 
-In our example, we're going to build a web application that allows users to create posts. We're going to use [Next.js](https://nextjs.org/) and [sqlite3](https://www.sqlite.org/index.html) to build this application.
-
-### Setting up the Project
-
-You're going to need to install [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) to get started. Once you have those installed, you can create a new project using the following command:
-
-```bash
-npx create-next-app --typescript
-```
-
-> 🚨 **If you're stuck setting up your development environment ask in our Discord!** 🚨
-
-This will create a new project using [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/). You can learn more about Next.js [here](https://nextjs.org/learn/basics/create-nextjs-app).
-
-### Setting up the Database
-
-We're going to use [sqlite3](https://www.sqlite.org/index.html) to store our data. To get started, we need to install the [sqlite3](https://www.sqlite.org/index.html) package:
-
-```bash
-npm install sqlite3
-```
-
-This will install the [sqlite3](https://www.sqlite.org/index.html) package and add it to our `package.json` file. We can now use this package in our project.
-
-We'll provide the basic SQL commands to get started. You learn about database in CSC 370.
+We provide an example web application that uses [Next.js](https://nextjs.org/) and [sqlite3](https://www.sqlite.org/index.html). This example is meant to be a starting point for you to build your own web application. You can find the example in the [example.md](/EXAMPLE.md) file.
 
 ## Deploying
 
-**TODO**: Fill out this section
-
 **Deploy your projects early! Deploy your projects often!**
+
+This is a good rule of thumb to follow when building a project. Deploying your project early and often will help:
+
+- You and your team get feedback on your project.
+- You are able to share your project with others like your friends, family, and potential employers.
+- The team is able to see the progress you're making.
+- It helps catch bugs early on.
+
+You can deploy your project to a variety of different places. Some examples include:
+
+- [Vercel](https://vercel.com/)
+  - VikeLabs uses Vercel to deploy our projects. Let an admin know if you want to deploy your project to Vercel.
+- [GitHub Pages](https://pages.github.com/)
+  - GitHub Pages is a free service that allows you to deploy static websites to GitHub. Single page apps and static websites are a good fit for GitHub Pages. Anything that requires a server is not a good fit for GitHub Pages.
+- [Fly.io](https://fly.io/)
+  - Fly.io is a free service that allows you to deploy web applications to Fly.io. Fly.io is a good fit for web applications that require a server.

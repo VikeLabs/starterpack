@@ -36,6 +36,8 @@ You're not limited to starting a project or finding people through these channel
 
 ## Forming a Team
 
+You'll want to start your team off with only a few people. We suggest **around 3-4 people at max.** This will help you get started in a lean fashion and avoid drowning in management. You can always expand your team later on if the situation calls for it.
+
 Once you have formed a team, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf6DNB52nPyVZ-KJfQxwnL1PLHm-wI5EQRSe5ScjIrSdT3TkA/viewform) to let us know who is on your team. This will help us keep track of who is on what team and allow us to assist you with any resources you may need.
 
 ## Brainstorming
